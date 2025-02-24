@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# testVoting
-=======
 # Decentralised Voting Project with Hardhat
 
 Concernant la partie Test:
@@ -44,5 +41,3 @@ File         |  % Stmts | % Branch |  % Funcs |  % Lines |Uncovered Lines |
 All files    |      100 |    95.83 |      100 |      100 |                |
 -------------|----------|----------|----------|----------|----------------|
 
-
->>>>>>> 4d05a8b (Voting smart contract tests)
